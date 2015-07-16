@@ -1,0 +1,1 @@
+Generates xml mapping book relationships for consumption by library-explorer-flex frontend. Intended for Flex, but GUI neutral.
